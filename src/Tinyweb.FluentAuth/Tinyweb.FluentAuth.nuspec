@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>$id$</id>
+    <version>$version$</version>
+    <title>$title$</title>
+    <authors>$author$</authors>
+    <owners>$author$</owners>
+    <projectUrl>http://yobriefca.se/projects/fluentauth</projectUrl>
+    <iconUrl>http://yobriefca.se/projects/fluentauth/images/logo.png</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>$description$</description>
+    <releaseNotes>Initial Release</releaseNotes>
+    <copyright>Copyright 2011</copyright>
+    <tags>tinyweb auth authentication</tags>
+  </metadata>
+</package>

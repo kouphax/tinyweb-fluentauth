@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tinyweb.FluentAuth.Web", "src\Tinyweb.FluentAuth.Web\Tinyweb.FluentAuth.Web.csproj", "{FB6EDF37-583C-497B-93C4-A8FE38ACCDE7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tinyweb.FluentAuth.Tests", "test\Tinyweb.FluentAuth.Tests\Tinyweb.FluentAuth.Tests.csproj", "{EE6CA533-2289-498C-8F6D-5A3C1F059D4B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tinyweb.FluentAuth", "src\Tinyweb.FluentAuth\Tinyweb.FluentAuth.csproj", "{CABADAFE-55AC-4BD3-B1F3-AC6BD32C3D7B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FB6EDF37-583C-497B-93C4-A8FE38ACCDE7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB6EDF37-583C-497B-93C4-A8FE38ACCDE7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB6EDF37-583C-497B-93C4-A8FE38ACCDE7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB6EDF37-583C-497B-93C4-A8FE38ACCDE7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EE6CA533-2289-498C-8F6D-5A3C1F059D4B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE6CA533-2289-498C-8F6D-5A3C1F059D4B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE6CA533-2289-498C-8F6D-5A3C1F059D4B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE6CA533-2289-498C-8F6D-5A3C1F059D4B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CABADAFE-55AC-4BD3-B1F3-AC6BD32C3D7B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CABADAFE-55AC-4BD3-B1F3-AC6BD32C3D7B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CABADAFE-55AC-4BD3-B1F3-AC6BD32C3D7B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CABADAFE-55AC-4BD3-B1F3-AC6BD32C3D7B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

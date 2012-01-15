@@ -1,0 +1,17 @@
+syntax: glob
+
+
+
+*.suo
+
+bin/
+
+obj/
+
+*.csproj.user
+
+packages/
+.DS_Store
+._.DS_Store
+*.nupkg
+._.hgignore
